@@ -1,0 +1,4 @@
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexceptionname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexceptionname.AssemblyInfoInputs.cache
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexceptionname.AssemblyInfo.cs
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexceptionname.csproj.CoreCompileInputs.cache

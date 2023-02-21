@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Stackexceptionname.Program</StartupObject>
+	  
+	  <StartupObject>Stackexceptionname.Class1</StartupObject>
+	  <StartupObject>Stackexceptionname.MyStack</StartupObject>
+  </PropertyGroup>
+
+</Project>

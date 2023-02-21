@@ -1,0 +1,14 @@
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\bin\Debug\netcoreapp3.1\Stackexception.exe
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\bin\Debug\netcoreapp3.1\Stackexception.deps.json
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\bin\Debug\netcoreapp3.1\Stackexception.runtimeconfig.json
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\bin\Debug\netcoreapp3.1\Stackexception.runtimeconfig.dev.json
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\bin\Debug\netcoreapp3.1\Stackexception.dll
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\bin\Debug\netcoreapp3.1\Stackexception.pdb
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexception.csproj.AssemblyReference.cache
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexception.AssemblyInfoInputs.cache
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexception.AssemblyInfo.cs
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexception.csproj.CoreCompileInputs.cache
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexception.dll
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexception.pdb
+C:\Users\SNEHASAN\source\repos\Stackexception\Stackexception\obj\Debug\netcoreapp3.1\Stackexception.genruntimeconfig.cache
