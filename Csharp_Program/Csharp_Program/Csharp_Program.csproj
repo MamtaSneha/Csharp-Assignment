@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Csharp_Program.Calculator</StartupObject>
+	  <StartupObject>Csharp_Program.Student_Avg</StartupObject>
+	  <StartupObject>Csharp_Program.ArrayInt</StartupObject>
+	  <StartupObject>Csharp_Program.SwapNo</StartupObject>
+	  <StartupObject>Csharp_Program.Circle</StartupObject>
+	  <StartupObject>Csharp_Program.bookstructure</StartupObject>
+	  
+	  
+  </PropertyGroup>
+
+</Project>

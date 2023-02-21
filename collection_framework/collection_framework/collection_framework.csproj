@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>collection_framework.Program</StartupObject>
+	  <StartupObject>collection_framework.Que.Employee</StartupObject>
+	  <StartupObject>collection_framework.Que.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

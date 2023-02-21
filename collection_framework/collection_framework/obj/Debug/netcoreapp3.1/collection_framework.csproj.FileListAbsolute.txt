@@ -1,0 +1,5 @@
+C:\Users\SNEHASAN\source\repos\collection_framework\collection_framework\obj\Debug\netcoreapp3.1\collection_framework.csproj.AssemblyReference.cache
+C:\Users\SNEHASAN\source\repos\collection_framework\collection_framework\obj\Debug\netcoreapp3.1\collection_framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNEHASAN\source\repos\collection_framework\collection_framework\obj\Debug\netcoreapp3.1\collection_framework.AssemblyInfoInputs.cache
+C:\Users\SNEHASAN\source\repos\collection_framework\collection_framework\obj\Debug\netcoreapp3.1\collection_framework.AssemblyInfo.cs
+C:\Users\SNEHASAN\source\repos\collection_framework\collection_framework\obj\Debug\netcoreapp3.1\collection_framework.csproj.CoreCompileInputs.cache

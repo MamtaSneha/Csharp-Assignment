@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Employee_Management_System.Program</StartupObject>
+	  <StartupObject>Employee_Management_System.Employee</StartupObject>
+  </PropertyGroup>
+
+</Project>
